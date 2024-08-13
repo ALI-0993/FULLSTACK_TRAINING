@@ -1,1 +1,0 @@
-﻿# FULLSTACK_TRAINING for ali
